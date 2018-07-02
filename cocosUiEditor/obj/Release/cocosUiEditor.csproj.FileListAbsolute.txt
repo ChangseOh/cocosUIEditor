@@ -1,0 +1,12 @@
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\bin\Release\cocosUiEditor.exe.config
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\bin\Release\cocosUiEditor.exe
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\bin\Release\cocosUiEditor.pdb
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.csprojResolveAssemblyReference.cache
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.Form1.resources
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.Form2.resources
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.Form3.resources
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.Properties.Resources.resources
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.csproj.GenerateResource.cache
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.csproj.CoreCompileInputs.cache
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.exe
+C:\Users\ChangSe\Source\Repos\cocosUiEditor\cocosUiEditor\obj\Release\cocosUiEditor.pdb
