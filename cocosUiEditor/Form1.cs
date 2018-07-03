@@ -89,7 +89,7 @@ namespace cocosUiEditor
 
             donateTick(this, EventArgs.Empty);
 
-            MessageBox.Show("Welcome cocos GUI Editor!!\n(version 0.5)");
+            MessageBox.Show("Welcome cocos GUI Editor!!\n(version 0.5.1)");
         }
         void donateTick(object sender, EventArgs e)
         {
@@ -1544,6 +1544,8 @@ namespace cocosUiEditor
                             createbuffers.Add(string.Format("{0}->setPosition(Vec2({1}, {2}));", createName, _xx, _yy));
                             break;
                     }
+                    if(node.hAnchorX != 0.5f || node.hAnchorY != 0.5f)
+                        createbuffers.Add(string.Format("{0}->setAnchorPoint(Vec2({1}, {2}));", createName, node.hAnchorX, node.hAnchorY));
                     if (node.hOpacity < 255)
                         createbuffers.Add(string.Format("{0}->setOpacity({1});", createName, node.hOpacity));
                     if (node.hScale != 1.0f)
